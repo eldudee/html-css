@@ -1,0 +1,74 @@
+header {
+    background-color:rgb(65, 65, 65);
+    padding: 20px 0px;
+    text-align:left;
+    
+   
+    
+}
+body {
+    background-image: url(ancient-architecture-of-wuhou-temple-in-chengdu-TBB935.jpg);
+    background-size: cover;
+    font-family: 'Roboto';
+    margin: 0px;
+    
+}
+
+nav {
+    display: inline;
+       
+}
+a {
+    text-decoration: none;
+    color:white;
+    font-style:inherit;
+    margin: 24px;
+    
+}
+
+#home1{
+    
+    color: rgb(54, 54, 54);
+}
+  
+
+#here {
+    color:rgb(100, 1, 158);
+    margin: 0;
+}
+main{
+    margin: 0px 10px;
+}
+footer{
+    background-color:rgb(156, 30, 206);
+    padding: 20px 0px;
+    color: rgb(138, 138, 138);
+    text-align: center;
+    
+}
+table, th, td {
+    border: 1px solid rgb(51, 51, 51);
+    border-collapse: collapse;
+  }
+  
+  button {
+      background-color: transparent;
+      border-radius:  rgb(34, 34, 34);
+      color: rgb(53, 53, 53);
+  }
+  #submit{
+    background-color: transparent;
+    border-radius:  black;
+    color: black;
+  }
+  
+
+  input[type=text], select, textarea {
+    border-radius: black;
+    resize: vertical;
+  }
+  img{
+      height: 400px;
+      width: 720px;
+  }
+ 
